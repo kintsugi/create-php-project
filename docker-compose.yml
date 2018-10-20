@@ -3,7 +3,7 @@ services:
   app:
     build:
       context: .
-      dockerfile: .docker/Dockerfile
+      dockerfile: docker/Dockerfile
     image: PROJECT_NAME
     volumes:
       - .:/srv/app

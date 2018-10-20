@@ -1,0 +1,10 @@
+{
+    "name": "kyle/php-for-tina",
+    "authors": [
+        {
+            "name": "Kyle Salter",
+            "email": "kyle@kylesalter.com"
+        }
+    ],
+    "require": {}
+}
